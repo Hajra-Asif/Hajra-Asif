@@ -73,19 +73,19 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 ## 📌 Top Contributed Repositories
 
 <a href="https://github.com/HajraAsif/FoodFiesta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=FoodFiesta&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=FoodFiesta&theme=dark&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/HajraAsif/TaskManagementApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&task-management&theme=default" />
+<a href="https://github.com/HajraAsif/task-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&task-management&theme=dark&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/HajraAsif/TaskManagementApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=expense-tracker&theme=default" />
+<a href="https://github.com/HajraAsif/expense-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=expense-tracker&theme=dark&bg_color=0d1117"" />
 </a>
 
-<a href="https://github.com/HajraAsif/TaskManagementApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=BornToBeChef&theme=default" />
+<a href="https://github.com/HajraAsif/BornToBeChef">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=BornToBeChef&theme=dark&bg_color=0d1117" />
 </a>
 
 
