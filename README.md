@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hajra Asif</h1>
-<h3 align="center">A passionate Frontend Developer & UI Designer from Pakistan 🇵🇰</h3>
+<h1>Hi 👋, I'm Hajra Asif</h1>
+<h3>A passionate Frontend Developer & UI Designer from Pakistan 🇵🇰</h3>
 
 🌟 I love turning beautiful UI designs into real working websites using code!  
 Currently exploring the MERN stack and Firebase for full-stack web development.
@@ -39,7 +39,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Hajra-Asif&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Hajra-Asif&theme=tokyonight&hide_border=false" height="160"/>
 </p>
@@ -48,7 +48,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ### 📌 Most Used Languages
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajra-Asif&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
@@ -56,7 +56,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=Hajra-Asif&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
@@ -72,7 +72,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ### 📌 Top Contributed Repo
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=FoodFiesta&theme=tokyonight" />
 </p>
 
@@ -80,8 +80,8 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ### 📅 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hajra-Asif/Hajra-Asif/main/8dc4740d-4f80-4f87-a75d-d1c22df5f4e8.png" width="100%" />
+<p>
+<img src="https://ghchart.rshah.org/Hajra-Asif" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
 ---
