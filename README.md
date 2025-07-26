@@ -81,7 +81,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 ### 📅 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HajraAsif/Hajra-Asif/main/8dc4740d-4f80-4f87-a75d-d1c22df5f4e8.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hajra-Asif/Hajra-Asif/main/8dc4740d-4f80-4f87-a75d-d1c22df5f4e8.png" width="100%" />
 </p>
 
 ---
