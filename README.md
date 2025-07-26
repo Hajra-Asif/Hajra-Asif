@@ -22,9 +22,9 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
   <a href="https://www.linkedin.com/in/hajra-asif-902266232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hajramasif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:hajramasif@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 </p>
 
 ---
@@ -78,13 +78,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ---
 
-### 📅 GitHub Contribution Graph
 
-<p>
-<img src="https://ghchart.rshah.org/Hajra-Asif" alt="GitHub Contribution Chart" width="100%" />
-</p>
-
----
 
 > “Code what you dream, design what you feel.” ✨
 
