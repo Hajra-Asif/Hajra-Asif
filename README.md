@@ -70,11 +70,24 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ---
 
-### 📌 Top Contributed Repo
+## 📌 Top Contributed Repositories
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=FoodFiesta&theme=tokyonight" />
-</p>
+<a href="https://github.com/HajraAsif/FoodFiesta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=FoodFiesta&theme=default" />
+</a>
+
+<a href="https://github.com/HajraAsif/TaskManagementApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&task-management&theme=default" />
+</a>
+
+<a href="https://github.com/HajraAsif/TaskManagementApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=expense-tracker&theme=default" />
+</a>
+
+<a href="https://github.com/HajraAsif/TaskManagementApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=BornToBeChef&theme=default" />
+</a>
+
 
 ---
 
