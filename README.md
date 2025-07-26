@@ -40,8 +40,8 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HajraAsif&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=HajraAsif&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hajra-Asif&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Hajra-Asif&theme=tokyonight&hide_border=false" height="160"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 ### 📌 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajraAsif&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajra-Asif&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HajraAsif&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hajra-Asif&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 ### 📌 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HajraAsif&repo=Food-Fiesta&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=Food-Fiesta&theme=tokyonight" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 ### 📅 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HajraAsif/HajraAsif/main/8dc4740d-4f80-4f87-a75d-d1c22df5f4e8.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/HajraAsif/Hajra-Asif/main/8dc4740d-4f80-4f87-a75d-d1c22df5f4e8.png" width="100%" />
 </p>
 
 ---
@@ -92,6 +92,6 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 <p>
   <a href="https://profile-readme-generator.com" target="_blank">
-    <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Profile Readme Generator" height="25" />
+    <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Profile Readme Generator" />
   </a>
 </p>
