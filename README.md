@@ -74,19 +74,19 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 <p>
   <a href="https://github.com/Hajra-Asif/FoodFiesta">
-    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=FoodFiesta&theme=dark&bg_color=1a1a1a&border_color=30363d" />
+    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=FoodFiesta&theme=dark&bg_color=1a1b27&border_color=30363d" />
   </a>
   
   <a href="https://github.com/Hajra-Asif/task-management">
-    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=task-management&theme=dark&bg_color=1a1a1a&border_color=30363d" />
+    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=task-management&theme=dark&bg_color=1a1b27&border_color=30363d" />
   </a>
 
   <a href="https://github.com/Hajra-Asif/expense-tracker">
-    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=expense-tracker&theme=dark&bg_color=1a1a1a&border_color=30363d" />
+    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=expense-tracker&theme=dark&bg_color=1a1b27&border_color=30363d" />
   </a>
 
   <a href="https://github.com/Hajra-Asif/BornToBeChef">
-    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=BornToBeChef&theme=dark&bg_color=1a1a1a&border_color=30363d" />
+    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hajra-Asif&repo=BornToBeChef&theme=dark&bg_color=1a1b27&border_color=30363d" />
   </a>
 </p>
 
