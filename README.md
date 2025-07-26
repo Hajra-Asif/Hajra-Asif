@@ -9,10 +9,23 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 - 🔭 I’m currently working on: **React Projects + Firebase Integrations**
 - 🌱 Learning Now: **Express.js, MongoDB & Node.js**
 - 🎯 Goal 2025: **Become a Full Stack Developer**
-- 🧠 Strengths: **UI Design + Frontend + firebase + Clean Code**
+- 🧠 Strengths: **UI Design + Frontend + Firebase + Clean Code**
 - 💬 Ask me about: `React`, `Firebase`, `UI/UX`, `JavaScript`, `TypeScript`
 - ✨ Fun Fact: I started as a **UI Designer** and fell in love with **coding interfaces**!
-- 📫 Reach me at: **hajramasif@mail.com**
+- 📫 Reach me at: **hajramasif@gmail.com**
+
+---
+
+### 💼 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hajra-asif-902266232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hajramasif@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -33,15 +46,18 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ---
 
-### 💼 Connect with Me
+### 📌 Most Used Languages
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hajra-asif-902266232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hajramasif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajraAsif&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HajraAsif&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -54,10 +70,28 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 
 ---
 
-> “Code what you dream, design what you feel.”
+### 📌 Top Contributed Repo
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HajraAsif&repo=Food-Fiesta&theme=tokyonight" />
+</p>
+
+---
+
+### 📅 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HajraAsif/HajraAsif/main/8dc4740d-4f80-4f87-a75d-d1c22df5f4e8.png" width="100%" />
+</p>
+
+---
+
+> “Code what you dream, design what you feel.” ✨
+
+---
+
+<p>
   <a href="https://profile-readme-generator.com" target="_blank">
-    <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Profile Readme Generator" height="30" />
+    <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Profile Readme Generator" height="25" />
   </a>
 </p>
