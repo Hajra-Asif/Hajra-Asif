@@ -17,15 +17,15 @@ Currently exploring the MERN stack and Firebase for full-stack web development.
 ---
 
 ### 💼 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/hajra-asif-902266232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="mailto:hajramasif@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
+  <a href="mailto:hajramasif@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
+
 
 ---
 
